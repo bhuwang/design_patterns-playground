@@ -1,0 +1,15 @@
+/**
+ * <pre>
+ * 
+ * Factory design pattern is used when we have a super class with multiple sub-classes and based on input, 
+ * we need to return one of the sub-class. 
+ * 
+ * This pattern take out the responsibility of instantiation of a class from client program to the factory class.
+ * 
+ * </pre>
+ */
+/**
+ * @author bhuwan
+ *
+ */
+package com.bhuwan.designpatterns.creational.factory;
