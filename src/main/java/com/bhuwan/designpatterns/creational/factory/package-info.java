@@ -6,6 +6,9 @@
  * 
  * This pattern take out the responsibility of instantiation of a class from client program to the factory class.
  * 
+ * Calendar
+ * ResourceBundle
+ * NumberFormat
  * </pre>
  */
 /**

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.bhuwan.designpatterns.creational.factory;
+package com.bhuwan.designpatterns.creational.factory.computer;
 
 /**
  * @author bhuwan
