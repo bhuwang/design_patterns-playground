@@ -9,8 +9,7 @@ package com.bhuwan.designpatterns.creational.singleton;
  */
 public class BlockLevelThreadSafeSingleton {
 
-    // volatile for happens-before
-    private static volatile BlockLevelThreadSafeSingleton instance;
+    private static BlockLevelThreadSafeSingleton instance;
 
     private BlockLevelThreadSafeSingleton() {
     }
