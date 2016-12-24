@@ -1,6 +1,11 @@
 /**
- * Structural patterns provide different ways to create a class structure, for example using inheritance and composition to create a large
- * object from small objects.
+ * Structural patterns focus on how you use or utilize objects. It could be something like :
+ * 
+ * performance
+ * refactoring
+ * memory utilization
+ * 
+ * 
  */
 /**
  * @author bhuwan
