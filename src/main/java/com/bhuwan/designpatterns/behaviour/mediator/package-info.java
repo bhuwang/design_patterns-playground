@@ -1,6 +1,16 @@
 /**
- * Allows loose coupling by encapsulating the way disparate sets of objects interact and communicate with each other. Allows for the actions
- * of each object set to vary independently of one another.
+ * <pre>
+ * 
+ * Focus on how objects interact with one another without having them refer to one another explicitly.
+ * Loose coupling between objects
+ * 
+ * Built-in java examples:
+ * java.util.Timer
+ * java.lang.reflect.Method#invoke()
+ * 
+ * 
+ * 
+ * </pre>
  */
 /**
  * @author bhuwan
